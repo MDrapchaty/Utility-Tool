@@ -10,7 +10,7 @@ npm install nx-debugtool --save
 
 ## Use
 ### Requiring the debug tool on your project
-In each file your planning to debug make sure to always require it at the top
+In each file your planning to debug make sure to always require it at the top you will also will need to create a logs folder in the main directory
 ```
 const debug = require('nx-debugtool');
 ```
