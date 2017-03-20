@@ -1,3 +1,6 @@
+
+<img width="121px" alt="codeship" src="https://app.codeship.com/projects/62c87650-ef33-0134-c7c2-4273fbb5e1b9/status?branch=master">
+
 ##Debug Tool
 
 Debugging tool that console logs to the CLI and log file
