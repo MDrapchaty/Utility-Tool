@@ -18,12 +18,12 @@ const debug = require('nx-debugtool');
 ### Setting your own debug messages
 Put the following line were you want to get a debug message:
 
-####Successful
+#### Successful
 ```
 debug.debug('Your Successful Message', 'Successful');
 ```
 
-####Error
+#### Error
 ```
 debug.debug('Your message because of the following error: ' + err, 'Error! ');
 ```

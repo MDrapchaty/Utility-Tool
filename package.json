@@ -1,5 +1,5 @@
 {
-  "name": "Utility-Tool",
+  "name": "nx-debugtool",
   "version": "1.0.0",
   "description": "Utility-Tool",
   "main": "debug.js",
@@ -29,5 +29,8 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.0"
+  },
+  "directories": {
+    "test": "test"
   }
 }
