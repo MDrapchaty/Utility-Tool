@@ -18,7 +18,7 @@ exports.debug = (data, status) => {
 
   if (process.env.DEBUG === 'true') {
     // create log file
-    fs.appendFile('./logs/debuglog.log', data, (err) => {
+    console.log(data, (err) => {
       if (err) {
         return console.log(err);
       }
