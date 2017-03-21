@@ -27,6 +27,6 @@ if ((argv.v === 'major' || argv.v === 'minor' || argv.v === 'patch') && typeof a
     console.log(argv.v + ' has been updated to ' + argv.n);
   });
 } else {
-  // Error messege
+  // error messege
   console.log('Please verify your arguments.')
 }
