@@ -18,8 +18,9 @@
   "homepage": "https://github.com/kdbaustert/Utility-Tool#readme",
   "dependencies": {
     "chai": "^3.5.0",
+    "colors": "^1.1.2",
     "mocha": "^3.2.0",
-    "mocha-sinon": "^1.1.6",
+    "mocha-sinon": "^1.2.0",
     "sinon": "^1.17.7",
     "supertest": "^3.0.0"
   },
